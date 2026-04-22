@@ -1,5 +1,4 @@
 import Image from "next/image";
-import React from "react";
 import { Video } from "../types/video";
 
 interface CardVideoCrownProps {

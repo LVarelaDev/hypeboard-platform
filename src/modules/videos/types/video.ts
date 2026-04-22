@@ -6,3 +6,11 @@ export interface Video {
   hype: number;
   isCrown: boolean;
 }
+
+export interface PaginatedVideos {
+  data: Video[];
+  total: number;
+  page: number;
+  limit: number;
+  totalPages: number;
+}
