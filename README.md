@@ -1,10 +1,10 @@
-# 🚀 Hypeboard Platform - Frontend
+# Hypeboard Platform - Frontend
 
 Frontend desarrollado en **Next.js (React)** que consume un backend en NestJS para mostrar una cartelera de videos tecnológicos con un sistema de "Hype".
 
 ---
 
-## 🧠 Descripción
+## Descripción
 
 La aplicación muestra una grilla de videos procesados desde el backend, destacando dinámicamente el contenido más relevante ("Joya de la Corona").
 
@@ -18,7 +18,7 @@ La aplicación muestra una grilla de videos procesados desde el backend, destaca
 
 ---
 
-## ⚙️ Tecnologías
+## Tecnologías
 
 - Next.js (App Router)
 - React
@@ -27,7 +27,7 @@ La aplicación muestra una grilla de videos procesados desde el backend, destaca
 
 ---
 
-## 🔐 Variables de entorno
+## Variables de entorno
 
 Crea un archivo `.env.local` en la raíz del proyecto:
 
@@ -37,7 +37,7 @@ NEXT_PUBLIC_API_URL=http://localhost:3000
 
 ---
 
-## 📦 Instalación
+## Instalación
 
 ```bash
 npm install
@@ -45,7 +45,7 @@ npm install
 
 ---
 
-## 🚀 Ejecutar la aplicación
+## Ejecutar la aplicación
 
 ```bash
 npm run dev
